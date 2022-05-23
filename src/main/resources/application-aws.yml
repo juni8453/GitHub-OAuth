@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://3.39.119.201:3306/oauth?serverTimezone=UTC&characterEncoding=UTF-8
+    username: super
+    password: Wjsqudwns1!
